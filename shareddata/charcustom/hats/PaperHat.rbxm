@@ -106,7 +106,7 @@
             <Z>1</Z>
           </Vector3>
           <Content name="TextureId">
-            <url>rbxasset://../../../shareddata/charcustom/hats/textures/paperHat.png</url>
+            <url>rbxasset://../../../shareddata/charcustom/hats/textures/PaperHatTex.png</url>
           </Content>
           <Vector3 name="VertexColor">
             <X>1</X>
